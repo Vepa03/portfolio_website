@@ -20,17 +20,18 @@ export const Projects = () => {
             {/* ÇEVİRİLEN BECERİLER */}
             <ul className={styles.skills}>
               {project.skills.map((skill, index) => (
-                <li key={index} className={styles.skill}>{project.skills}</li>
+                <li key={index} className={styles.skill}>{skill}</li>
               ))}
             </ul>
 
             <div className={styles.links}>
               <a href={project.download} className={styles.link}>{project.btn1}</a>  
-              <a href={project.demo} className={styles.link}>{project.btn2}</a>
+              <a href={project.demo} target="_blank" rel="noopener noreferrer" className={styles.link}>{project.btn2}</a>
             </div>
           </div>
         ))}
       </div>
+      
     </section>
   );
 };

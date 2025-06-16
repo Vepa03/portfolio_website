@@ -15,10 +15,10 @@ export const Navbar = () => {
                 onClick={()=> setMenuOpen(!menuOpen)}/>
             <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`} onClick={()=> setMenuOpen(false)}>
                 <li>
-                    <a href='./about'>About</a>
+                    <a href='#about'>About</a>
                 </li>
                 <li>
-                    <a href='#experince'>Experience</a>
+                    <a href='#experience'>Experience</a>
                 </li>
                 <li>
                     <a href='#projects'>Projects</a>
