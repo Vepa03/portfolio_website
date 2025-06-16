@@ -45,7 +45,7 @@
     "description": "As a self-employed frontend developer, I built this online learning platform using React.js. Langora Academy offers courses in German, English, and Math.",
     "skills": ["React", "CSS", "HTML"],
     "demo": "http://langoracademy.com/",
-    "download": "ewcfewcewce",
+    "download": "http://langoracademy.com/",
     "btn1": "Link",
     "btn2": "Source"
   },
@@ -55,7 +55,7 @@
     "description": "A multilingual online course platform built with Flutter, allowing users to register for courses, explore teacher profiles, receive news and updates, and switch seamlessly between 5 different languages. The app supports real-time content updates and is designed for accessible, cross-cultural learning.",
     "skills": ["Flutter","Dart"],
     "demo": "https://github.com/Vepa03/Dil-Menzili",
-    "download": "",
+    "download": "https://github.com/Vepa03/Dil-Menzili",
     "btn1": "Download",
     "btn2": "Source"
   }

@@ -14,7 +14,7 @@ export const Hero = () => {
                 <a href='#contact' className={styles.button2}>Contact Me</a>
             </div>
             <div className={styles.platforms}>
-                <a href='https://www.instagram.com/vepa03_/' target="_blank" rel="noopener noreferrer">
+                <a href='https://www.linkedin.com/in/vepa-babayev-273b22330/' target="_blank" rel="noopener noreferrer">
                     <img src='./linkedin.png' alt='Linkedin'/>
                 </a>
                 <a href='https://github.com/Vepa03' target="_blank" rel="noopener noreferrer">
