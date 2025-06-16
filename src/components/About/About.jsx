@@ -22,8 +22,8 @@ export const About = () => {
             <div className={styles.card}>
               <img src="/education.png" alt="education" className={styles.icon} />
               <h3>Education</h3>
+              <p>2024 - Present</p>
               <p>B.Sc. Bachelors Degree</p>
-              <p>M.Sc. Masters Degree</p>
             </div>
           </div>
 

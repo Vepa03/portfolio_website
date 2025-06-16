@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Turkmen Names",
+    "ImageSrc": "/proj1.png",
+    "description": "Discover and explore Turkmen names by meaning, and popularity — built with Flutter.",
+    "skills": ["Flutter","Dart"],
+    "demo": "mailto:langoracademy@gmail.com",
+    "download": "ewcfewcewce",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "Turkmen Tagamlary",
+    "ImageSrc": "/proj2.png",
+    "description": "Türkmen Tagamlary is a Flutter-based app that introduces users to the rich and unique flavors of Turkmen cuisine.",
+    "skills": ["Flutter","Dart"],
+    "demo": "mailto:langoracademy@gmail.com",
+    "download": "ewcfewcewce",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+    {
+    "title": "Kitaplar",
+    "ImageSrc": "/proj3.png",
+    "description": "📚 The app includes a wide collection of books by Turkmen and English authors, as well as school textbooks — all in one place.",
+    "skills": ["Flutter","Dart","Django"],
+    "demo": "mailto:langoracademy@gmail.com",
+    "download": "ewcfewcewce",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "Computer Basics",
+    "ImageSrc": "/proj4.png",
+    "description": "A simple app to help beginners understand the fundamentals of computer hardware and software.",
+    "skills": ["Java", "Android SDK"],
+    "demo": "mailto:langoracademy@gmail.com",
+    "download": "ewcfewcewce",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "Langora Academy",
+    "ImageSrc": "/proj4.png",
+    "description": "As a self-employed frontend developer, I built this online learning platform using React.js. Langora Academy offers courses in German, English, and Math.",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "mailto:langoracademy@gmail.com",
+    "download": "ewcfewcewce",
+    "btn1": "Link",
+    "btn2": "Source"
+  },
+  {
+    "title": "Portfolio",
+    "ImageSrc": "/proj4.png",
+    "description": "Build a Responsive Personal portfolio, a Flutter and web developer showcasing projects, skills, and contact information from Scratch using React, CSS,HTML",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "mailto:langoracademy@gmail.com",
+    "download": "ewcfewcewce",
+    "btn1": "Link",
+    "btn2": "Source"
+  },
+  {
+    "title": "Dil Menzili",
+    "ImageSrc": "/proj2.png",
+    "description": "Türkmen Tagamlary is a Flutter-based app that introduces users to the rich and unique flavors of Turkmen cuisine.",
+    "skills": ["Flutter","Dart"],
+    "demo": "mailto:langoracademy@gmail.com",
+    "download": "ewcfewcewce",
+    "btn1": "Download",
+    "btn2": "Source"
+  }
+]
