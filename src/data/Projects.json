@@ -58,5 +58,16 @@
     "download": "https://github.com/Vepa03/Dil-Menzili",
     "btn1": "Download",
     "btn2": "Source"
+  },
+  {
+    "title": "Lezzetli Tagamlar",
+    "ImageSrc": "/proj7.png",
+    "description": "Lezzetli Tagamlar is a collection of delicious cake, pastry, and dessert recipes from Turkmen cuisine. Each recipe comes with a picture, name, and description to help you prepare tasty treats at home.",
+    "skills": ["Flutter","Dart"],
+    "demo": "https://github.com/Vepa03/Tasty-Recipes",
+    "download": "https://github.com/Vepa03/Tasty-Recipes",
+    "btn1": "Download",
+    "btn2": "Source"
   }
+
 ]
