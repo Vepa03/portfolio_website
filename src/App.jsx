@@ -5,6 +5,7 @@ import { Experience } from "./components/Experience/Experience"
 import { Hero } from "./components/Hero/Hero"
 import { Navbar } from "./components/Navbar/Navbar"
 import { Projects } from "./components/Projects/Projects"
+import { Videos } from "./components/Videos/Videos"
 function App() {
   return (
     <div className={styles.App}>
@@ -13,6 +14,7 @@ function App() {
       <About/>
       <Experience/>
       <Projects/>
+      <Videos/>
       <Contacts/>
     </div>
   )
