@@ -3,5 +3,10 @@
         "name" : "How to Use git clone (Step-by-Step)",
         "video" : "CR1b59Go59g",
         "description": "In this video, you will learn what the git clone command is used for and how to use it. I will show you step-by-step how git clone works to copy a project from GitHub to your computer."
+    },
+    {
+        "name" : "How to add new repository (Step-by-Step)",
+        "video" : "C-3WvoyTO8U",
+        "description": "In this video, you will learn how to create and add a new repository on GitHub in just a few steps. Perfect for beginners!"
     }
 ]
