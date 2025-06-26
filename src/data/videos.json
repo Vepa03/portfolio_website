@@ -8,5 +8,10 @@
         "name" : "How to add new repository (Step-by-Step)",
         "video" : "C-3WvoyTO8U",
         "description": "In this video, you will learn how to create and add a new repository on GitHub in just a few steps. Perfect for beginners!"
+    },
+        {
+        "name" : "How to delete repository ",
+        "video" : "J0gNzt5cbFM",
+        "description": "In this video, I show you step by step how to delete a repository on GitHub. Whether you're cleaning up old projects or removing test repositories."
     }
 ]
