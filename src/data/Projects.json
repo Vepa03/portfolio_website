@@ -70,7 +70,7 @@
     "btn2": "Source"
   },
   {
-    "title": "very Simplle Portfolio Website",
+    "title": "Very Simple Portfolio Website",
     "ImageSrc": "/proj8.png",
     "description": "Created a clean and minimal portfolio website to showcase one developer projects and skills, using HTML, CSS, and JavaScript.",
     "skills": ["React","VueJs","HTML", "CSS"],
