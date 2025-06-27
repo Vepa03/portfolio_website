@@ -46,7 +46,7 @@
     "skills": ["React", "CSS", "HTML"],
     "demo": "http://langoracademy.com/",
     "download": "http://langoracademy.com/",
-    "btn1": "Link",
+    "btn1": "Visit",
     "btn2": "Source"
   },
   {
@@ -67,6 +67,16 @@
     "demo": "https://github.com/Vepa03/Tasty-Recipes",
     "download": "https://github.com/Vepa03/Tasty-Recipes/releases/download/v1.0/app-release.apk",
     "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "very Simplle Portfolio Website",
+    "ImageSrc": "/proj8.png",
+    "description": "Created a clean and minimal portfolio website to showcase one developer projects and skills, using HTML, CSS, and JavaScript.",
+    "skills": ["React","VueJs","HTML", "CSS"],
+    "demo": "https://github.com/Vepa03/portfolio_1",
+    "download": "https://portfolionew-iota.vercel.app/",
+    "btn1": "Visit",
     "btn2": "Source"
   }
 
