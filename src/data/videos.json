@@ -28,5 +28,15 @@
         "name" : "Introduction to Dart Programming",
         "video" : "lSmAZLxsgAE",
         "description": "What is the Dart language? In this video, I tell you about Dart language and Flutter framework."
+    },
+    {
+        "name" : "Dart Programming | Lesson 1",
+        "video" : "-BuqyMu0iJQ",
+        "description": "In this video, I teach about Sring, int, double, var and i give examples."
+    },
+    {
+        "name" : "Upload project to Upwork",
+        "video" : "S59mkuYxwzo",
+        "description": "What is the Upwork? In this video, I tell you about Upwork, how to find part time job, upload projects"
     }
 ]
