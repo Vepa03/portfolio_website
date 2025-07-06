@@ -78,6 +78,17 @@
     "download": "https://portfolionew-iota.vercel.app/",
     "btn1": "Visit",
     "btn2": "Source"
+  },
+  {
+    "title": "Note App",
+    "ImageSrc": "/proj9.png",
+    "description": "A simple, lightweight notepad app built with Flutter. Write, save and view your ideas, reminders or thoughts anytime.",
+    "skills": ["Flutter","Dart","Figma"],
+    "demo": "https://github.com/Vepa03/Note_App",
+    "download": "https://github.com/Vepa03/Note_App/releases/download/v0.0.0.1/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
   }
+
 
 ]
