@@ -25,13 +25,15 @@ export const Videos = () => {
           </div>
         ))}
       </div>
-      <ul className={styles.morevideo}>
+      <div className={styles.morevideo}>
+        <ul>
         <li>
           <a href='https://www.youtube.com/@vepa_babayev' target="_blank" rel="noopener noreferrer">
                 Browse My More Videos
               </a>
         </li>
       </ul>
+      </div>
       
     </section>
   );

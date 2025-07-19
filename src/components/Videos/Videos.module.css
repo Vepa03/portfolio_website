@@ -9,7 +9,12 @@
   font-size: 16px;
   margin-bottom: 0.5rem;
 }
+
 .morevideo{
+  color: black;
+}
+
+.morevideo ul{
   font-size: 25px;
   font-weight: bold;
   margin-top: 1rem;
