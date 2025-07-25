@@ -93,7 +93,7 @@
     "title": "Library App",
     "ImageSrc": "/proj10.png",
     "description": "A simple and lightweight book app built with Flutter. Whether you want to read or just explore, Library lets you do it easily — anytime, anywhere.",
-    "skills": ["Flutter","Dart","Firebase","Django"],
+    "skills": ["Flutter","Dart","Firebase","Django","Figma"],
     "demo": "https://github.com/Vepa03/kitaphana",
     "download": "https://github.com/Vepa03/kitaphana/releases/download/v1.0.0.0/app-release.apk",
     "btn1": "Download",
