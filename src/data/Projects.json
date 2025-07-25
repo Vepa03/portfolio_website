@@ -88,6 +88,16 @@
     "download": "https://github.com/Vepa03/Note_App/releases/download/v0.0.0.1/app-release.apk",
     "btn1": "Download",
     "btn2": "Source"
+  },
+  {
+    "title": "Library App",
+    "ImageSrc": "/proj10.png",
+    "description": "A simple and lightweight book app built with Flutter. Whether you want to read or just explore, Library lets you do it easily — anytime, anywhere.",
+    "skills": ["Flutter","Dart","Firebase","Django"],
+    "demo": "https://github.com/Vepa03/kitaphana",
+    "download": "https://github.com/Vepa03/kitaphana/releases/download/v1.0.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
   }
 
 
