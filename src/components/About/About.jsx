@@ -15,7 +15,7 @@ export const About = () => {
             <div className={styles.card}>
               <img src="/medal.png" alt="experience" className={styles.icon} />
               <h3>Experience</h3>
-              <p>7 months</p>
+              <p>1 year</p>
               <p>Flutter Development</p>
             </div>
 
@@ -28,7 +28,7 @@ export const About = () => {
           </div>
 
           <p className={styles.description}>
-            I’m a Flutter Developer with over 7 months of experience building cross-platform mobile and web applications. 
+            I’m a Flutter Developer with over 1 year of experience building cross-platform mobile and web applications. 
             I focus on creating clean and responsive user interfaces with great attention to UI/UX design. 
             I have hands-on experience with Firebase, Django, REST APIs. 
           </p>
