@@ -120,14 +120,14 @@ export const Experience = () => {
           <h3 className={styles.title}>Developer Tools</h3>
           <ul className={styles.list}>
             <li>
-              <img src= "./figma.png" alt="Figma" />
+              <img src= "./android_studio.png" alt="Android Studio" />
               <div>
                 <strong>Visual Studio</strong>
                 <p>Intermediate</p>
               </div>
             </li>
             <li>
-              <img src= "./github.png" alt="GitHub" />
+              <img src= "./visual_studio.png" alt="Visual Studio" />
               <div>
                 <strong>Android Studio</strong>
                 <p>Intermediate</p>

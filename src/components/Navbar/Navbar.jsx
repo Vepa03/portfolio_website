@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import styles from "./Navbar.module.css";
+import { Link, NavLink, useNavigate } from 'react-router-dom';  
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
   return (
@@ -15,16 +16,16 @@ export const Navbar = () => {
                 onClick={()=> setMenuOpen(!menuOpen)}/>
             <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`} onClick={()=> setMenuOpen(false)}>
                 <li>
-                    <a href='#about'>About</a>
+                    <a href='/about'>About</a>
                 </li>
                 <li>
-                    <a href='#experience'>Experience</a>
+                    <Link to="/experience" > Experience </Link>
                 </li>
                 <li>
-                    <a href='#projects'>Projects</a>
+                    <Link to="/projects" > Projects </Link>
                 </li>
                 <li>
-                    <a href='#videos'>Videos</a>
+                    <Link to="/videos" > Videos </Link>
                 </li>
                 <li>
                     <a href='#contact'>Contact</a>
