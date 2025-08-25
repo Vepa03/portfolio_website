@@ -7,12 +7,13 @@ import { Videos } from "./components/Videos/Videos"
 import { Routes, Route } from "react-router-dom";
 import Layout from "./Layout"
 import { Projects_short } from "./components/Projects_short/Projects_short"
+import { Videos_short } from "./components/Videos_short/Videos_short"
 
 
 function HomePage() {
   return (
     <>
-      <Hero/><About/><Experience/><Projects_short/><Videos/>
+      <Hero/><About/><Experience/><Projects_short/><Videos_short/>
     </>
   );
 }

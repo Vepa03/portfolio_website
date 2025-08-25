@@ -10,12 +10,21 @@
   margin-bottom: 0.5rem;
 }
 
+.morevideo{
+  color: black;
+}
+
+.morevideo ul{
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 1rem;
+  list-style: none;
+}
+
 .heading {
   font-size: 36px;
   font-weight: bold;
   margin-bottom: 2rem;
-  text-decoration: none;
-  color: black;
 }
 
 .projects {
@@ -23,8 +32,8 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 30px;
+  margin-bottom: 1em;
 }
-
 .container{
   max-width: 300px;
   width: 100%;
@@ -36,6 +45,14 @@
   flex-direction: column;
   justify-content: space-between;
   
+}
+
+.container iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  margin-bottom: 10px;
 }
 .image{
   width: 100%;
@@ -57,44 +74,7 @@
     color: rgb(93, 90, 90);
 }
 
-.skills{
-    width: 100%;
-    margin-top: 14px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 6px;
-    list-style: none;
-}
 
-.skill{
-    font-size: 15px;
-    font-weight: 400;
-    border-radius: 100px;
-    background: transparent;
-    border: solid 1px black;
-    padding: 2px 15px; 
-    color: black;
-}
-
-.links{
-    width: 100%;
-    margin-top: 15px;
-    display: flex;
-    justify-content: space-around;
-}
-
-.link{
-    text-decoration: none;
-    /* color: var(--color-text); */
-    color: white;
-    font-size: 20px;
-    font-weight: 600;
-    border-radius: 10px;
-    background: rgb(0, 0, 0);
-    padding: 5px 10px
-
-}
 
 @media screen and (max-width: 768px){
     .contain{
