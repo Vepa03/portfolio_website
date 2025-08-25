@@ -64,6 +64,7 @@ export const Experience = () => {
           </ul>
         </div>
 
+        {/* Languages */}
         <div className={styles.box}>
           <h3 className={styles.title}>Programming Languages</h3>
           <ul className={styles.list}>
@@ -90,6 +91,8 @@ export const Experience = () => {
             </li>
           </ul>
         </div>
+        
+        {/* Tools */}
         <div className={styles.box}>
           <h3 className={styles.title}>Tools & Design</h3>
           <ul className={styles.list}>
@@ -104,6 +107,29 @@ export const Experience = () => {
               <img src= "./github.png" alt="GitHub" />
               <div>
                 <strong>GitHub</strong>
+                <p>Intermediate</p>
+              </div>
+            </li>
+            
+          </ul>
+        </div>
+
+
+        {/* IDE */}
+        <div className={styles.box}>
+          <h3 className={styles.title}>Developer Tools</h3>
+          <ul className={styles.list}>
+            <li>
+              <img src= "./figma.png" alt="Figma" />
+              <div>
+                <strong>Visual Studio</strong>
+                <p>Intermediate</p>
+              </div>
+            </li>
+            <li>
+              <img src= "./github.png" alt="GitHub" />
+              <div>
+                <strong>Android Studio</strong>
                 <p>Intermediate</p>
               </div>
             </li>

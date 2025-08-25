@@ -32,6 +32,9 @@ export const Hero = () => {
                 <a href='https://www.youtube.com/@vepa_babayev' target="_blank" rel="noopener noreferrer">
                     <img src='./youtube.png' alt='YouTube'/>
                 </a>
+                <a href='https://www.tiktok.com/@vepababayev03' target="_blank" rel="noopener noreferrer">
+                    <img src='./tiktok.png' alt='TikTok'/>
+                </a>
             </div>
         </div>
     </div>
