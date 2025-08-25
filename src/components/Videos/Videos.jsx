@@ -6,7 +6,7 @@ export const Videos = () => {
 
   return (
     <section className={styles.contain} id='videos'>
-      <h4 className={styles.subheading}>Browse My Recent</h4>
+      {/* <h4 className={styles.subheading}>Browse My Recent</h4> */}
       <h2 className={styles.heading}>Videos</h2>
       <div className={styles.projects}>
         {videos.map((video, id) => (
