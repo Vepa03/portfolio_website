@@ -10,7 +10,7 @@ export const Hero = () => {
             <h1>Vepa</h1>
             <h2>Flutter Developer</h2>
             <div className={styles.buttons}>
-                <a href='https://drive.google.com/file/d/1vALWFFBg117F3VS5nSXaqmVii6h_usQK/view?usp=sharing' target="_blank" rel="noopener noreferrer" className={styles.button1} download >Download Cv</a>
+                <a href='https://drive.google.com/file/d/13xpCtkIYZNotzKH8BTKiFswDbfCtDMd_/view?usp=sharing' target="_blank" rel="noopener noreferrer" className={styles.button1} download >Download Cv</a>
                 <a href='#contact' className={styles.button2}>Contact Me</a>
             </div>
             <div className={styles.platforms}>
