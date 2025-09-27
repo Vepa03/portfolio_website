@@ -1,5 +1,15 @@
 [
   {
+    "title": "German Quiz",
+    "ImageSrc": "/proj12.png",
+    "description": "Introducing German Quizes—your compact German practice app.",
+    "skills": ["Flutter","Dart","Firebase","Figma"],
+    "demo": "https://github.com/Vepa03/german_app",
+    "download": "https://github.com/Vepa03/german_app/releases/download/v1.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
     "title": "Chatbot AI",
     "ImageSrc": "/proj11.png",
     "description": "A fast and simple AI chatbot built with Flutter. Just ask and get instant answers — anytime, anywhere.",
