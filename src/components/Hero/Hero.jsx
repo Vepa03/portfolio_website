@@ -8,7 +8,7 @@ export const Hero = () => {
         <div className={styles.HeroMenuItems}>
             <h3>Hello, I'm</h3>
             <h1>Vepa</h1>
-            <h2>Flutter Developer</h2>
+            <h2>Flutter Developer</h2> 
             <div className={styles.buttons}>
                 <a href='https://drive.google.com/file/d/13xpCtkIYZNotzKH8BTKiFswDbfCtDMd_/view?usp=sharing' target="_blank" rel="noopener noreferrer" className={styles.button1} download >Download Cv</a>
                 <a href='#contact' className={styles.button2}>Contact Me</a>
