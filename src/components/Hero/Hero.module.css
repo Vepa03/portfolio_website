@@ -1,0 +1,127 @@
+.Hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    padding: 10% 15%;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.image{
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    object-fit: fill;
+}
+
+.platforms{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+
+.platforms img{
+    width: 40px;
+}
+
+.HeroMenuItems{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.HeroMenuItems h1{
+    font-weight: 700;
+    font-size: 70px;
+}
+.HeroMenuItems h2{
+    font-size: 50px;
+    font-weight: 100;
+    color: rgb(82, 83, 84);
+}
+
+.buttons{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button1{
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.button2{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 768px){
+
+    .Hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    padding: 15% 15%;
+    flex-wrap: wrap;
+    gap: 10px;
+    }
+    .image{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    }
+
+    .HeroMenuItems h1{
+    font-weight: 700;
+    font-size: 50px;
+    }
+
+    .HeroMenuItems h2{
+    font-size: 30px;
+    font-weight: 100;
+    color: rgb(82, 83, 84);
+    }
+
+    .button1{
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 15px;
+    }
+    .button2{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 15px;
+    }
+
+    .platforms img{
+    width: 30px;
+    }
+
+}

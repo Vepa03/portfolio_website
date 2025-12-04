@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Türkmen atlary",
+    "ImageSrc": "/proj13.png",
+    "description": "Find the meaning of any Turkmen name! Built with Flutter. Fast, simple, clean.",
+    "skills": ["Flutter","Dart","Figma"],
+    "demo": "https://github.com/Vepa03/name_meaning",
+    "download": "https://github.com/Vepa03/name_meaning/releases/download/v1.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "German Quiz",
+    "ImageSrc": "/proj12.png",
+    "description": "Introducing German Quizes—your compact German practice app.",
+    "skills": ["Flutter","Dart","Firebase","Figma"],
+    "demo": "https://github.com/Vepa03/german_app",
+    "download": "https://github.com/Vepa03/german_app/releases/download/v1.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "Chatbot AI",
+    "ImageSrc": "/proj11.png",
+    "description": "A fast and simple AI chatbot built with Flutter. Just ask and get instant answers — anytime, anywhere.",
+    "skills": ["Flutter","Dart","Firebase","Figma"],
+    "demo": "https://github.com/Vepa03/WallPaper",
+    "download": "https://github.com/Vepa03/WallPaper/releases/download/v.1.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "Turkmen Names",
+    "ImageSrc": "/proj1.png",
+    "description": "Discover and explore Turkmen names by meaning, and popularity — built with Flutter.",
+    "skills": ["Flutter","Dart"],
+    "demo": "https://github.com/Vepa03/Turkmen-Atlary",
+    "download": "https://github.com/Vepa03/Turkmen-Atlary/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "Turkmen Tagamlary",
+    "ImageSrc": "/proj2.png",
+    "description": "Türkmen Tagamlary is a Flutter-based app that introduces users to the rich and unique flavors of Turkmen cuisine.",
+    "skills": ["Flutter","Dart"],
+    "demo": "https://github.com/Vepa03/Turkmen-Food",
+    "download": "https://github.com/Vepa03/Turkmen-Food/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+    {
+    "title": "Kitaplar",
+    "ImageSrc": "/proj3.png",
+    "description": "📚 The app includes a wide collection of books by Turkmen and English authors, as well as school textbooks — all in one place.",
+    "skills": ["Flutter","Dart","Django"],
+    "demo": "https://github.com/Vepa03/kitaplar",
+    "download": "https://github.com/Vepa03/kitaplar/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "title": "Computer Basics",
+    "ImageSrc": "/proj4.png",
+    "description": "A simple app to help beginners understand the fundamentals of computer hardware and software.",
+    "skills": ["Java", "Android SDK"],
+    "demo": "https://github.com/Vepa03/computer-basics",
+    "download": "https://github.com/Vepa03/computer-basics/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  }
+
+
+]

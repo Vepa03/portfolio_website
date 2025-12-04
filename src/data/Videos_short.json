@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "How to Use git clone (Step-by-Step)",
+        "video" : "CR1b59Go59g",
+        "description": "In this video, you will learn what the git clone command is used for and how to use it. I will show you step-by-step how git clone works to copy a project from GitHub to your computer."
+    },
+    {
+        "name" : "How to add new repository (Step-by-Step)",
+        "video" : "C-3WvoyTO8U",
+        "description": "In this video, you will learn how to create and add a new repository on GitHub in just a few steps. Perfect for beginners!"
+    },
+    {
+        "name" : "How to delete repository ",
+        "video" : "J0gNzt5cbFM",
+        "description": "In this video, I show you step by step how to delete a repository on GitHub. Whether you're cleaning up old projects or removing test repositories."
+    },
+    {
+        "name" : "Deploy Your Website to Vercel in Minutes",
+        "video" : "UYLev_IJf7c",
+        "description": "Learn how to deploy your website on Vercel step by step! In this video, I show you how to connect your project to Vercel and get it live in minutes."
+    },
+    {
+        "name" : "Delete Your Website from Vercel in 1 Minute",
+        "video" : "65GyZfRoa2s",
+        "description": "Learn how to delete your website on Vercel step by step! In this video, I show you how to delete your project from Vercel and get it live in 1 minute."
+    }
+]

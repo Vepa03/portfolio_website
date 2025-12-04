@@ -1,0 +1,147 @@
+[
+  {
+    "id": 0,
+    "title": "Türkmen atlary",
+    "ImageSrc": "/proj13.png",
+    "description": "Find the meaning of any Turkmen name! Built with Flutter. Fast, simple, clean.",
+    "skills": ["Flutter","Dart","Figma"],
+    "demo": "https://github.com/Vepa03/name_meaning",
+    "download": "https://github.com/Vepa03/name_meaning/releases/download/v1.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 1,
+    "title": "German Quiz",
+    "ImageSrc": "/proj12.png",
+    "description": "Introducing German Quizes—your compact German practice app.",
+    "skills": ["Flutter","Dart","Firebase","Figma"],
+    "demo": "https://github.com/Vepa03/german_app",
+    "download": "https://github.com/Vepa03/german_app/releases/download/v1.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 2,
+    "title": "Chatbot AI",
+    "ImageSrc": "/proj11.png",
+    "description": "A fast and simple AI chatbot built with Flutter. Just ask and get instant answers — anytime, anywhere.",
+    "skills": ["Flutter","Dart","Firebase","Figma"],
+    "demo": "https://github.com/Vepa03/WallPaper",
+    "download": "https://github.com/Vepa03/WallPaper/releases/download/v.1.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 3,
+    "title": "Turkmen Names",
+    "ImageSrc": "/proj1.png",
+    "description": "Discover and explore Turkmen names by meaning, and popularity — built with Flutter.",
+    "skills": ["Flutter","Dart"],
+    "demo": "https://github.com/Vepa03/Turkmen-Atlary",
+    "download": "https://github.com/Vepa03/Turkmen-Atlary/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 4,
+    "title": "Turkmen Tagamlary",
+    "ImageSrc": "/proj2.png",
+    "description": "Türkmen Tagamlary is a Flutter-based app that introduces users to the rich and unique flavors of Turkmen cuisine.",
+    "skills": ["Flutter","Dart"],
+    "demo": "https://github.com/Vepa03/Turkmen-Food",
+    "download": "https://github.com/Vepa03/Turkmen-Food/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 5,  
+    "title": "Kitaplar",
+    "ImageSrc": "/proj3.png",
+    "description": "📚 The app includes a wide collection of books by Turkmen and English authors, as well as school textbooks — all in one place.",
+    "skills": ["Flutter","Dart","Django"],
+    "demo": "https://github.com/Vepa03/kitaplar",
+    "download": "https://github.com/Vepa03/kitaplar/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 6,
+    "title": "Computer Basics",
+    "ImageSrc": "/proj4.png",
+    "description": "A simple app to help beginners understand the fundamentals of computer hardware and software.",
+    "skills": ["Java", "Android SDK"],
+    "demo": "https://github.com/Vepa03/computer-basics",
+    "download": "https://github.com/Vepa03/computer-basics/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 7,
+    "title": "Langora Academy",
+    "ImageSrc": "/proj5.png",
+    "description": "As a self-employed frontend developer, I built this online learning platform using React.js. Langora Academy offers courses in German, English, and Math.",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "http://langoracademy.com/",
+    "download": "http://langoracademy.com/",
+    "btn1": "Visit",
+    "btn2": "Source"
+  },
+  {
+    "id": 8,
+    "title": "Dil Menzili",
+    "ImageSrc": "/proj6.png",
+    "description": "A multilingual online course platform built with Flutter, allowing users to register for courses, explore teacher profiles, receive news and updates, and switch seamlessly between 5 different languages. The app supports real-time content updates and is designed for accessible, cross-cultural learning.",
+    "skills": ["Flutter","Dart"],
+    "demo": "https://github.com/Vepa03/Dil-Menzili",
+    "download": "https://github.com/Vepa03/Dil-Menzili",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 9,
+    "title": "Lezzetli Tagamlar",
+    "ImageSrc": "/proj7.png",
+    "description": "Lezzetli Tagamlar is a collection of delicious cake, pastry, and dessert recipes from Turkmen cuisine. Each recipe comes with a picture, name, and description to help you prepare tasty treats at home.",
+    "skills": ["Flutter","Dart"],
+    "demo": "https://github.com/Vepa03/Tasty-Recipes",
+    "download": "https://github.com/Vepa03/Tasty-Recipes/releases/download/v1.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 10,
+    "title": "Very Simple Portfolio Website",
+    "ImageSrc": "/proj8.png",
+    "description": "Created a clean and minimal portfolio website to showcase one developer projects and skills, using HTML, CSS, and JavaScript.",
+    "skills": ["React","VueJs","HTML", "CSS"],
+    "demo": "https://github.com/Vepa03/portfolio_1",
+    "download": "https://portfolionew-iota.vercel.app/",
+    "btn1": "Visit",
+    "btn2": "Source"
+  },
+  {
+    "id": 11,
+    "title": "Note App",
+    "ImageSrc": "/proj9.png",
+    "description": "A simple, lightweight notepad app built with Flutter. Write, save and view your ideas, reminders or thoughts anytime.",
+    "skills": ["Flutter","Dart","Figma"],
+    "demo": "https://github.com/Vepa03/Note_App",
+    "download": "https://github.com/Vepa03/Note_App/releases/download/v0.0.0.1/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  },
+  {
+    "id": 12,
+    "title": "Library App",
+    "ImageSrc": "/proj10.png",
+    "description": "A simple and lightweight book app built with Flutter. Whether you want to read or just explore, Library lets you do it easily — anytime, anywhere.",
+    "skills": ["Flutter","Dart","Firebase","Django","Figma"],
+    "demo": "https://github.com/Vepa03/kitaphana",
+    "download": "https://github.com/Vepa03/kitaphana/releases/download/v1.0.0.0/app-release.apk",
+    "btn1": "Download",
+    "btn2": "Source"
+  }
+
+
+]
