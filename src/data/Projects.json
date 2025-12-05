@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Türkmen atlary",
     "ImageSrc": "/proj13.png",
-    "description": "Find the meaning of any Turkmen name! Built with Flutter. Fast, simple, clean.",
+    "description": "I built a Türkmen Atlar application using Flutter, where users can quickly search and discover the meanings of Turkmen names. \n🔍 Fast & clean search \n⭐ Save favorites \n📱 Modern and simple UI \n🌍 Available for everyone \n📥 Now available on the App Store",
     "skills": ["Flutter","Dart","Figma"],
     "demo": "https://github.com/Vepa03/name_meaning",
     "download": "https://github.com/Vepa03/name_meaning/releases/download/v1.0.0/app-release.apk",
