@@ -2,51 +2,51 @@
     {
         "name" : "How to Use git clone (Step-by-Step)",
         "video" : "CR1b59Go59g",
-        "description": "In this video, you will learn what the git clone command is used for and how to use it. I will show you step-by-step how git clone works to copy a project from GitHub to your computer."
+        "description": "In this video, you will learn what the git clone command is used for and how to use it. I show step by step how git clone works to download a project from GitHub to your computer.\n\n👨‍💻 If you’re new to working with Git, this video will be useful for you!\n🔧 A helpful guide for those who want to learn how to use GitHub, Git, Terminal, and the CLI.\n\n📌 If you want to see more videos about Git commands, don’t forget to subscribe!"
     },
     {
         "name" : "How to add new repository (Step-by-Step)",
         "video" : "C-3WvoyTO8U",
-        "description": "In this video, you will learn how to create and add a new repository on GitHub in just a few steps. Perfect for beginners!"
+        "description": "🔧 In this video, you will learn step by step how to create a new repository on GitHub and how to connect it to your computer.\n\n📌 Topics covered:\n\nCreating a new repository\n\nConnecting via Terminal\n\nUsing Git commands\n\n💡 Perfect for beginners!\n\n📥 If you have any questions, feel free to leave a comment below!"
     },
     {
         "name" : "How to delete repository ",
         "video" : "J0gNzt5cbFM",
-        "description": "In this video, I show you step by step how to delete a repository on GitHub. Whether you're cleaning up old projects or removing test repositories."
+        "description": "In this video, I show step by step how to delete a repository from your GitHub account. If you want to remove a project that is unnecessary or was created for testing purposes, this video will help you.\n\n📌 Guide:\n\nLog in to your GitHub account\nSelect the repository you want to delete\nOpen the Settings section\n\nConfirm the deletion of the repository\n📢 If you have any questions, you can leave them in the comments!"
     },
     {
         "name" : "Deploy Your Website to Vercel in Minutes",
         "video" : "UYLev_IJf7c",
-        "description": "Learn how to deploy your website on Vercel step by step! In this video, I show you how to connect your project to Vercel and get it live in minutes."
+        "description": "Deploy Your Website Using Vercel – Step-by-Step Guide 🚀\n\nIn this video, you will learn how to upload and deploy your website using Vercel, a widely used platform for modern web applications.n\n📌 In this video you will learn:\n\nHow to connect Vercel with your GitHub account\n\n🔧 Technologies used: Vercel, GitHub, HTML/CSS/JavaScript (or React/Svelte – depending on what you use)\n\n📎 Useful links:\n→ Vercel: https://vercel.com\n\n→ GitHub: https://github.com\n\nIf you found the video helpful, don’t forget to hit like 👍, leave a comment 💬, and subscribe to the channel 🔔!"
     },
     {
         "name" : "Delete Your Website from Vercel in 1 Minute",
         "video" : "65GyZfRoa2s",
-        "description": "Learn how to delete your website on Vercel step by step! In this video, I show you how to delete your project from Vercel and get it live in 1 minute."
+        "description": "🔹 In this 1-minute short video, I show step by step how to delete a website deployed on the Vercel platform.\nIf you want to remove your old projects or clean up your Vercel dashboard, this video is for you!\n\n👇 For more useful videos like this, don’t forget to subscribe to the channel and hit the “like” button!"
     },
     {
         "name" : "Introduction to Dart Programming",
         "video" : "lSmAZLxsgAE",
-        "description": "What is the Dart language? In this video, I tell you about Dart language and Flutter framework."
+        "description": "🎯 What is Dart?\nIn this short 3-minute video, we give you the basic information about the Dart language:\n🔹 Why was Dart created?\n🔹 What kind of programming is it used for?\n🔹 How does it work with Flutter?\n\nIf you want to start mobile or web development, it’s important to get familiar with this language!n👇 Don’t forget to subscribe to the channel and hit “like”!"
     },
     {
         "name" : "Dart Programming | Lesson 1",
         "video" : "-BuqyMu0iJQ",
-        "description": "In this video, I teach about Sring, int, double, var and i give examples."
+        "description": "In this video, we introduce the Dart programming language.\nIn the first lesson, we learn the following concepts:\n✔️ int – whole numbers\n✔️ double – decimal numbers\n✔️ String – text data\n✔️ var – automatically typed variables\n\nIf you want to learn Dart from scratch, this video is perfect for you!n👇 Don’t forget to subscribe to the channel for the next lessons!"
     },
     {
         "name" : "Upload project to Upwork",
         "video" : "S59mkuYxwzo",
-        "description": "What is the Upwork? In this video, I tell you about Upwork, how to find part time job, upload projects"
+        "description": "🎯 How to add a portfolio project to Upwork?\nIn this video, I show step by step how to upload a project to your Upwork account. I also briefly explain what Upwork is and why it’s useful.\nA great starting point for anyone who wants to work as a freelancer! 🚀\n\n🔗 If you found it helpful, don’t forget to subscribe and hit the like button.\n📌 If you have any questions, feel free to write them in the comments!"
     },
     {
         "name" : "Dart Programming | Lesson 2",
         "video" : "FGeM69yXF3U",
-        "description": "In this video, I teach about Sring, int, double, var, comment and i give mathematical examples."
+        "description": "💻 Dart Programming Language Lesson: String, int, double, var, and Using Comments\n\nIn this video lesson, we learn the basic data types in Dart:\n✅ String: For text data\n✅ int: For whole numbers\n✅ double: For decimal numbers\n✅ var: Automatically determines the type\n✅ // : Used for writing comments\n\nBy the end of the lesson, you will be able to:\n🔹 Perform mathematical operations\n🔹 Combine (concatenate) strings\n🔹 Explain your code using comments\n\n🌟 Perfect for beginners learning Dart!\n\n👉 Don’t forget to subscribe and leave a “like”!"
     },
     {
         "name" : "Dart Programming | Lesson 4",
         "video" : "RlNDP25f2qA",
-        "description": "In this video, I teach about Null safety."
+        "description": "This video is about Null Safety, one of the most important features of the Dart language.\nWhat is null? Why is Null Safety important? How are the !, ?, ??, and ??= operators used?\nI explain everything with simple examples.\n\n👉 If you enjoy the video, don’t forget to hit the “Like” button and subscribe to my channel!"
     }
 ]

@@ -9,6 +9,7 @@ import Layout from "./Layout"
 import { Projects_short } from "./components/Projects_short/Projects_short"
 import { Videos_short } from "./components/Videos_short/Videos_short"
 import { ProjectDetail } from "./components/Projects/ProjectDetail";
+import { VideoDetail } from "./components/Videos/VideoDetail";
 
 
 function HomePage() {
@@ -25,6 +26,7 @@ function App() {
         <Route element={<Layout/>}>
           <Route path="/" element={<HomePage/>} />
           <Route path="/videos" element={<Videos/>} />
+          <Route path="/videos/:id" element={<VideoDetail />} />
           <Route path="/projects" element={<Projects/>} />
           <Route path="/projects/:id" element={<ProjectDetail />} />
           <Route path="/experience" element={<Experience/>} />
