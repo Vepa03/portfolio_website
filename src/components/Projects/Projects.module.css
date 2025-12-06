@@ -59,6 +59,10 @@
   color: #4b5563;
   margin-bottom: 1rem;
   line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;   /* en fazla 2 satır */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* SKILLS */
